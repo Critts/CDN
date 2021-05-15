@@ -1,0 +1,2 @@
+# CDN
+critts_cdn
